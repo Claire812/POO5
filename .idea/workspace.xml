@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b971b01c-32b0-4734-8ea5-20a27239b173" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1jGVhJEiSYeoUdTCRjBAPaV3t0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b971b01c-32b0-4734-8ea5-20a27239b173" name="Default Changelist" comment="" />
+      <created>1603430536651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603430536651</updated>
+      <workItem from="1603430538947" duration="3811000" />
+      <workItem from="1603436538802" duration="3673000" />
+      <workItem from="1603700861195" duration="84000" />
+      <workItem from="1603702096073" duration="135000" />
+      <workItem from="1603779721007" duration="3889000" />
+      <workItem from="1603785599784" duration="704000" />
+      <workItem from="1603791360745" duration="13000" />
+      <workItem from="1603791375345" duration="29000" />
+      <workItem from="1603792325344" duration="3386000" />
+      <workItem from="1603816361077" duration="43000" />
+      <workItem from="1603817335162" duration="2577000" />
+      <workItem from="1604911106353" duration="5098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="131" width="441" height="588" key="#com.intellij.ide.util.MemberChooser" timestamp="1603779797335">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="765" y="131" width="441" height="588" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1603779797335" />
+    <state x="774" y="179" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603816392953">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="774" y="179" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1603816392953" />
+    <state x="781" y="141" width="409" height="568" key="NewPhpClassDialog" timestamp="1604912119249">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="781" y="141" width="409" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604912119249" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1604912217479">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604912217479" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1603446708291">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1603446708291" />
+  </component>
+</project>
